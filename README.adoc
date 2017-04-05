@@ -1,5 +1,4 @@
-Active Tab Limiter
----
+= Active Tab Limiter
 
 Chrome extension which keeps you concentrated by closing the tabs if their amount 
 is bigger than some preconfigured value.
@@ -7,5 +6,5 @@ is bigger than some preconfigured value.
 Also current implementation allows to configure such parameters as:
 
 * Amount of opened tabs per browser window. Defaults to `3`.
-* Order of closing the tabs (close old or recent tabs first). Defaults to `old tabs first`.
+* Order of closing the tabs (close old or recent tabs first). Defaults to `Old tabs first`.
 * Ignore pinned tabs. Will not close pinned tabs and will not calculate them for the total tabs limit.
