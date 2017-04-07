@@ -3,7 +3,7 @@
 
     "name": "Active Tab Limiter",
     "description": "Limits amount of currently opened tabs and closes old ones if new tabs are opened",
-    "version": "0.0.1",
+    "version": "0.0.2",
 
     "browser_action": {
     },

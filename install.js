@@ -1,6 +1,6 @@
 const defaultConfig = {
     maxTabsPerWindow: 3,
-    fifo: false,
+    fifo: true,
     ignorePinnedTabs: true
 };
 
